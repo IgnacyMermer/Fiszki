@@ -5,4 +5,4 @@ By default, it is create for English as a second language, but it can also be an
 Using this app, you can create new lists of words and add or remove words from these lists.
 All data is stored locally on phone using sqflite.
 
-### I hope you enjoyed it
+### I hope you will enjoy it
