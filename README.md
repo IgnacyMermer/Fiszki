@@ -6,3 +6,8 @@ Using this app, you can create new lists of words and add or remove words from t
 All data is stored locally on phone using sqflite.
 
 ### I hope you will enjoy it
+
+
+
+https://user-images.githubusercontent.com/60555082/170470473-8445453f-3b02-46d3-90d5-593766ebc970.mp4
+
